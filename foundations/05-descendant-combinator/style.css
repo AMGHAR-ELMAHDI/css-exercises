@@ -1,0 +1,11 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.container .text{
+    background-color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: center;
+    color: red;
+}
